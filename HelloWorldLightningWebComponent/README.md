@@ -1,6 +1,7 @@
 ALL RIGHT, I'M GETTING BETTER OVER TIME. 
 THANKS.
-
+BUT THIS IS A DIFFERENT BRANCH, SO IT'S OK 
+TO MAKE OTHER CHANGES. COOL!
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
